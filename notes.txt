@@ -1,0 +1,5 @@
+https://plotly.com/python/setting-graph-size/
+
+https://plotly.com/python-api-reference/generated/plotly.graph_objects.Figure.html#plotly.graph_objects.Figure.show
+
+https://github.com/plotly/plotly.py/pull/1474
