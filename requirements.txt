@@ -3,4 +3,3 @@ requests
 pandas
 numpy
 plotly
-from 
