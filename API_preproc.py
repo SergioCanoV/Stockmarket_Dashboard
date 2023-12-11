@@ -7,7 +7,7 @@ import os
 from os.path import exists
 
 params = {
-    'access_key': 'effb4b6bb2ccc35bcde9c0e0da6fb031',
+    'access_key': '___________________________',
     'date_from': '2023-01-01T00:00:00+0000',
     'date_to': '2023-12-10T00:00:00+0000',
     'limit': '950'
